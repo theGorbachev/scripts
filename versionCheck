@@ -9,7 +9,7 @@
 
 # PARM: 1. Program - validated to be a command
 #       2. Version - validated to be numberic
-#	    3. eg command - versionCheck cmake 3.17; echo $?
+#       3. eg command - versionCheck cmake 3.17; echo $?
 #WGET: sudo wget https://raw.githubusercontent.com/theGorbachev/scripts/main/versionCheck -P /usr/local/bin
 
 # NOTE: Extracting version number perl one-liner found here:
