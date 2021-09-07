@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# NAME: testver
+# NAME: versionChecker
 # PATH: /usr/local/bin
 # DESC: Test a program's version number >= to passed version number
 # DATE: May 21, 2017. Modified August 5, 2019.
