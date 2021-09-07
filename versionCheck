@@ -5,7 +5,7 @@
 # DESC: Test a program's version number >= to passed version number
 # DATE: May 21, 2017. Modified August 5, 2019.
 
-# CALL: VersionChecker Program Version
+# CALL: versionChecker Program Version
 
 # PARM: 1. Program - validated to be a command
 #       2. Version - validated to be numberic
