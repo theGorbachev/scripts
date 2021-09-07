@@ -9,7 +9,7 @@
 
 # PARM: 1. Program - validated to be a command
 #       2. Version - validated to be numberic
-
+#       3. eg. command- versionChecker.sh cmake 3.2; echo $?
 # NOTE: Extracting version number perl one-liner found here:
 #       http://stackoverflow.com/questions/16817646/extract-version-number-from-a-string
 
